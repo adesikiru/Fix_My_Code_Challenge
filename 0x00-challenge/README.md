@@ -10,7 +10,7 @@ chmod u+x 100-Makefile && git add --chmod=+x 100-Makefile && git commit -m 'Adva
 
 && git push
 
-chmod u+x 3-user.py && git add --chmod=+x 3-user.py && git commit -m 'Task 02  Sort 3-user.py' && git push
+chmod u+x 3-user.py && git add --chmod=+x 3-user.py && git commit -m 'Task 03  Sort 3-user.py' && git push
 
 touch 3-user.py && git add . && git commit -m 3-user.py
 
