@@ -10,7 +10,7 @@ chmod u+x 100-Makefile && git add --chmod=+x 100-Makefile && git commit -m 'Adva
 
 && git push
 
-chmod u+x 2-sort.rb && git add --chmod=+x 2-sort.rb && git commit -m 'Task 02  Print square 2-sort.rb' && git push
+chmod u+x 2-sort.rb && git add --chmod=+x 2-sort.rb && git commit -m 'Task 02  Sort 2-sort.rb' && git push
 
 touch 2-sort.rb && git add . && git commit -m 2-sort.rb
 
