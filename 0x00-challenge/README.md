@@ -10,7 +10,7 @@ chmod u+x 100-Makefile && git add --chmod=+x 100-Makefile && git commit -m 'Adva
 
 && git push
 
-chmod u+x 1-print_square.js && git add --chmod=+x 1-print_square.js && git commit -m 'Task 00 FizzBuzz 1-print_square.js' && git push
+chmod u+x 1-print_square.js && git add --chmod=+x 1-print_square.js && git commit -m 'Task 01 FizzBuzz 1-print_square.js' && git push
 
 touch 1-print_square.js && git add . && git commit -m 1-print_square.js
 
