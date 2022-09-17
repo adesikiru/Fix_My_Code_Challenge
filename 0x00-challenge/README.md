@@ -10,9 +10,9 @@ chmod u+x 100-Makefile && git add --chmod=+x 100-Makefile && git commit -m 'Adva
 
 && git push
 
-chmod u+x 3-user.py && git add --chmod=+x 3-user.py && git commit -m 'Task 03  User password 3-user.py' && git push
+chmod u+x add_dnodeint_end.c && git add --chmod=+x add_dnodeint_end.c && git commit -m 'Task 03  User password add_dnodeint_end.c' && git push
 
-touch 3-user.py && git add . && git commit -m 3-user.py
+touch add_dnodeint_end.c && git add . && git commit -m add_dnodeint_end.c
 
 make -f 5-island_perimeter.py && git add . && git commit -m 5-island_perimeter.py
 
