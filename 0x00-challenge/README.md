@@ -10,7 +10,7 @@ chmod u+x 100-Makefile && git add --chmod=+x 100-Makefile && git commit -m 'Adva
 
 && git push
 
-chmod u+x add_dnodeint_end.c && git add --chmod=+x add_dnodeint_end.c && git commit -m 'Task 03  User password add_dnodeint_end.c' && git push
+chmod u+x add_dnodeint_end.c && git add --chmod=+x add_dnodeint_end.c && git commit -m 'Task 0  User password add_dnodeint_end.c' && git push
 
 touch add_dnodeint_end.c && git add . && git commit -m add_dnodeint_end.c
 
