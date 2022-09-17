@@ -1,18 +1,18 @@
 # 0x00-challenge
 
 
-chmod u+x lists.h && git add --chmod=+x lists.h && git commit -m 'Advanced task 04 a program that displays the information contained in the ELF header at the start of an ELF file. lists.h' && git push
+chmod u+x main.c && git add --chmod=+x main.c && git commit -m 'Advanced task 04 a program that displays the information contained in the ELF header at the start of an ELF file. main.c' && git push
 chmod u+x 10-check_cycle.c && git add --all && git commit -m 'task 10 Write a function in C that checks if a singly linked list has a cycle in it. 10-check_cycle.c' && git push# 0x07-python-test_driven_development
 
-chmod u+x lists.h && git add --chmod=+x lists.h && git commit -m 'header file lists.h' && git push
+chmod u+x main.c && git add --chmod=+x main.c && git commit -m 'header file main.c' && git push
 
 chmod u+x 100-Makefile && git add --chmod=+x 100-Makefile && git commit -m 'Advanced Task 100 make -f 100-Makefile'
 
 && git push
 
-chmod u+x lists.h && git add --chmod=+x lists.h && git commit -m 'Task 04 Double linked list lists.h' && git push
+chmod u+x main.c && git add --chmod=+x main.c && git commit -m 'Task 04 Double linked list main.c' && git push
 
-touch lists.h && git add . && git commit -m lists.h
+touch main.c && git add . && git commit -m main.c
 
 make -f 5-island_perimeter.py && git add . && git commit -m 5-island_perimeter.py
 
