@@ -10,10 +10,9 @@ chmod u+x 100-Makefile && git add --chmod=+x 100-Makefile && git commit -m 'Adva
 
 && git push
 
-chmod u+x 0-fizzbuzz.py && git add --chmod=+x 0-fizzbuzz.py && git commit -m 'Task 00 FizzBuzz 0-fizzbuzz.py'
-&& git push
+chmod u+x 1-print_square.js && git add --chmod=+x 1-print_square.js && git commit -m 'Task 00 FizzBuzz 1-print_square.js' && git push
 
-touch 0-fizzbuzz.py && git add . && git commit -m 0-fizzbuzz.py
+touch 1-print_square.js && git add . && git commit -m 1-print_square.js
 
 make -f 5-island_perimeter.py && git add . && git commit -m 5-island_perimeter.py
 
