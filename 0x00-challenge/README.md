@@ -10,9 +10,9 @@ chmod u+x 100-Makefile && git add --chmod=+x 100-Makefile && git commit -m 'Adva
 
 && git push
 
-chmod u+x delete_dnodeint_at_index.c && git add --chmod=+x delete_dnodeint_at_index.c && git commit -m 'Task 04 Double linked list delete_dnodeint_at_index.c' && git push
+chmod u+x free_dlistint.c && git add --chmod=+x free_dlistint.c && git commit -m 'Task 04 Double linked list free_dlistint.c' && git push
 
-touch delete_dnodeint_at_index.c && git add . && git commit -m delete_dnodeint_at_index.c
+touch free_dlistint.c && git add . && git commit -m free_dlistint.c
 
 make -f 5-island_perimeter.py && git add . && git commit -m 5-island_perimeter.py
 
